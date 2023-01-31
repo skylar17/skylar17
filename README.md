@@ -3,8 +3,7 @@
 - 🙋‍♀️ My name's Shivani
 
 - 🎓 I'm a grad student, pursuing MS in Data Science
-
-- 📚 This semester, I'm taking 'Business Analytics and Decision Making', 'Machine Learning', and 'Big Data' courses at my University 
+ 
 
 <!-- - 🌱 I’m currently learning 'Data Science Fundamentals with Python and SQL Specialization' from IBM -->
 
