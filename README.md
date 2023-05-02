@@ -7,7 +7,7 @@
 
 <!-- - 🌱 I’m currently learning 'Data Science Fundamentals with Python and SQL Specialization' from IBM -->
 
-- 👀 I’m looking for an internship for Summer/23 
+- 👀 I’m looking for an internship for Summer2023 
 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me via [LinkedIn]( https://www.linkedin.com/in/shivani-t/)
