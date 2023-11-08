@@ -9,8 +9,8 @@
 
 - 👀 I’m casually looking for a full-time job for 2024. 
 
-<!-- - 💞️ I’m looking to collaborate on ... -->
-- 📫 Reach me via [LinkedIn]( https://www.linkedin.com/in/shivani-t/)
+<!-- - 💞️ I’m looking to collaborate on ... 
+- 📫 Reach me via [LinkedIn]( https://www.linkedin.com/in/shivani-t/) -->
 
 <!---
 skylar17/skylar17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
